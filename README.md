@@ -4,6 +4,10 @@ AI-powered marketing content generator and customer engagement tool for restaura
 
 Upload a food photo or enter menu item details — get instant Instagram captions, Facebook posts, campaign ideas, hashtags, audience targeting, and Google review responses.
 
+![Menu Item Generator](assets/02_menu_item.png)
+
+![Review Responder with Demo Output](assets/05_review_positive_demo.png)
+
 ## Features
 
 | Feature | Description |
